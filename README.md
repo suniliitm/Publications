@@ -44,12 +44,17 @@ This academic background provides the physical foundation for my work in **Yield
                      (C-AFM) studies were carried out Cu2ZnSnS4 (CZTS) film deposited on Si and sodalime glass substrates to understand grain boundary physics.
     * [Link to Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iUop0TEAAAAJ&citation_for_view=iUop0TEAAAAJ:qjMakFHDy7sC)
 
-### 2. Sensors & Transistors (OFETs)
+### 2. OFET Sensors 
 *My work on fabricating and characterizing active sensor devices for signal detection.*
 
 * **"A spectroscopy and microscopy study of Parylene-C OFETs for explosive sensing"**
     * *IEEE Sensors Journal (2017)*
-    * **Relevance:** Demonstrates the integration of Organic FETs for high-sensitivity chemical detection. Involves signal-to-noise optimization.
+    * **Relevance:** In this paper, we have explored Parylene-C (PC) as a sensing material for its unique signature and selectivity for explosive sensing. We
+                     have used a bi-layer deposition process to fabricate bottom-gate-top-contact organic field effect transistor (OFET) structures. Opening of
+                     dangling bonds on subjecting PC to plasma oxidation (POPC) renders these molecules to be employed as a receptor material in sensing vapors
+                     of both explosives and non-explosives, such as Trinitrotoulene (TNT), 1,3,5 trinitro-1,3,5-triazacyclohexane(RDX), etc. The change in:
+                     1) the vibrational modes of the molecule by infrared spectroscopy; 2) surface potential of POPC by Kelvin probe force microscopy (KPFM);
+                     and 3) electrical characterization by I–V measurements of PC-based OFET on exposing to vapors have been systematically studied.
     * [Link to Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iUop0TEAAAAJ&citation_for_view=iUop0TEAAAAJ:u5HHmVD_uO8C)
 
 ### 3. Material Integration & Thin Films
