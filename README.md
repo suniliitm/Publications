@@ -89,8 +89,8 @@ This academic background provides the physical foundation for my work in **Yield
 ---
 
 ## 🛠 Skills & Techniques
-* **Device Fabrication:** PVD (Sputtering), Spin Coating, Thermal Evaporation.
-* **Characterization:** XRD, Raman Spectroscopy, SEM, AFM, KPFM (Kelvin Probe Force Microscopy).
+* **Device Fabrication:** PVD (Sputtering), Spin Coating, Thermal Evaporation etc..
+* **Characterization:** XRD, Raman Spectroscopy, SEM, AFM, KPFM (Kelvin Probe Force Microscopy), C-AFM (Conductive Atomic Force Microscopy), XPS.
 * **Data Analysis:** Modeling defect states, Phase identification, I-V/C-V characteristics.
 
 ---
