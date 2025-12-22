@@ -30,7 +30,10 @@ This academic background provides the physical foundation for my work in **Yield
 
 * **"Light induced phase change in Cu2-xZn1.3SnS4 thin films"**
     * *Applied Physics Letters (2014)*
-    * **Relevance:** Analyzes instability mechanisms in solar materials under operational stress (similar to "Reliability Testing" in industry).
+    * **Relevance:** Cu2ZnSnS4 and its alloy based thin film solar cells have shown better photovoltaic performance under Cu-poor and Zn-rich conditions.
+                     However, the effect of Cu-stoichiometry on the coexistence of kesterite (KS), stannite and/or partially disordered kesterite (PD-KS)
+                     phases and their influence on photovoltaic performance is not clearly understood. Raman studies were carried out on Cu2xZn1.3SnS4
+                     (x ¼ 0, 0.3, and 0.5) thin films.
     * [Link to Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iUop0TEAAAAJ&citation_for_view=iUop0TEAAAAJ:d1gkVwhDpl0C)
 
 * **"Do defects get ordered in Cu2ZnSnS4?"**
