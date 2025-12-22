@@ -62,7 +62,12 @@ This academic background provides the physical foundation for my work in **Yield
 
 * **"Integration of perovskite PZT thin films on diamond substrate without buffer layer"**
     * *Journal of Physics D: Applied Physics (2012)*
-    * **Relevance:** Solves the challenge of depositing ferroelectrics on hard substrates, relevant to MEMS and RF Filter manufacturing.
+    * **Relevance:** Integration of lead zirconate titanate (PZT) thin film on diamond substrate offers a great deal of potential for the application of
+                     multifunctional devices under extreme conditions. However, fabrication of perovskite PZT thin films on diamond substrate without a buffer
+                     layer has not been realized to date. We report for the first time on the successful deposition of PZT thin film directly on a diamond
+                     substrate without any buffer layer using the pulsed-laser deposition technique. The perovskite phase was realized only under specific growth
+                     conditions. X-ray diffraction and Raman studies confirmed the perovskite phase. The ferroelectric behaviour of the deposited PZT thin film
+                     was confirmed using piezo response microscope phase image and ferroelectric hysteresis loop..
     * [Link to Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iUop0TEAAAAJ&citation_for_view=iUop0TEAAAAJ:u-x6o8ySG0sC)
 
 * **"Synthesis and characterisation of CuInGaS2 nano-ink for photovoltaic applications"**
