@@ -23,9 +23,9 @@ This academic background provides the physical foundation for my work in **Yield
 * **"How different are CZTS grain boundaries?"**
     * *Scripta Materialia (2021)*
     * **Relevance:** Some materials in poly-crystaline form show better solar cell performance than their single-crystalline form.
-    *                This is well established in CdTe and CuInGaSe2. This eork reports CAFM studies on the interior of the grains
-    *                and grain boundariesof CZTS depsoited on sodalime glass substrate and Si substrate to understand explore two
-    *                competing theories
+                     This is well established in CdTe and CuInGaSe2. This eork reports CAFM studies on the interior of the grains
+                     and grain boundariesof CZTS depsoited on sodalime glass substrate and Si substrate to understand explore two
+                     competing theories
     * [Link to Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iUop0TEAAAAJ&citation_for_view=iUop0TEAAAAJ:9yKSN-GCB0IC)
 
 * **"Light induced phase change in Cu2-xZn1.3SnS4 thin films"**
