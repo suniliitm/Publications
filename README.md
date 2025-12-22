@@ -38,7 +38,10 @@ This academic background provides the physical foundation for my work in **Yield
 
 * **"Do defects get ordered in Cu2ZnSnS4?"**
     * *Scripta Materialia (2016)*
-    * **Relevance:** A fundamental study on defect ordering kinetics, critical for thermal budget optimization.
+    * **Relevance:** Formation of ordered defect compounds and anomalous grain boundary physics are unique to Cu chalcogenides CuInX2 (S/Se) and its alloys.
+                     X-ray photoelectron spectroscopy (XPS) studies were carried on Cu2-xZn1.3SnS4 (x = 0.0, 0.3, 0.5 and 0.7) to determine the position of
+                     valence band edge and explore the formation of ordered vacancy compounds along with absorption studies. Conductive atomic force microscopy
+                     (C-AFM) studies were carried out Cu2ZnSnS4 (CZTS) film deposited on Si and sodalime glass substrates to understand grain boundary physics.
     * [Link to Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iUop0TEAAAAJ&citation_for_view=iUop0TEAAAAJ:qjMakFHDy7sC)
 
 ### 2. Sensors & Transistors (OFETs)
