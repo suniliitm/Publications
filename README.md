@@ -26,7 +26,7 @@ This academic background provides the physical foundation for my work in **Yield
                      This is well established in CdTe and CuInGaSe2. This eork reports CAFM studies on the interior of the grains
                      and grain boundariesof CZTS depsoited on sodalime glass substrate and Si substrate to understand explore two
                      competing theories
-    * [Link to Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iUop0TEAAAAJ&citation_for_view=iUop0TEAAAAJ:9yKSN-GCB0IC)
+    * [Link to Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iUop0TEAAAAJ&citation_for_view=iUop0TEAAAAJ:IjCSPb-OGe4C)
 
 * **"Light induced phase change in Cu2-xZn1.3SnS4 thin films"**
     * *Applied Physics Letters (2014)*
@@ -34,7 +34,7 @@ This academic background provides the physical foundation for my work in **Yield
                      However, the effect of Cu-stoichiometry on the coexistence of kesterite (KS), stannite and/or partially disordered kesterite (PD-KS)
                      phases and their influence on photovoltaic performance is not clearly understood. Raman studies were carried out on Cu2xZn1.3SnS4
                      (x ¼ 0, 0.3, and 0.5) thin films.
-    * [Link to Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iUop0TEAAAAJ&citation_for_view=iUop0TEAAAAJ:d1gkVwhDpl0C)
+    * [Link to Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iUop0TEAAAAJ&citation_for_view=iUop0TEAAAAJ:u-x6o8ySG0sC)
 
 * **"Do defects get ordered in Cu2ZnSnS4?"**
     * *Scripta Materialia (2016)*
@@ -42,7 +42,7 @@ This academic background provides the physical foundation for my work in **Yield
                      X-ray photoelectron spectroscopy (XPS) studies were carried on Cu2-xZn1.3SnS4 (x = 0.0, 0.3, 0.5 and 0.7) to determine the position of
                      valence band edge and explore the formation of ordered vacancy compounds along with absorption studies. Conductive atomic force microscopy
                      (C-AFM) studies were carried out Cu2ZnSnS4 (CZTS) film deposited on Si and sodalime glass substrates to understand grain boundary physics.
-    * [Link to Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iUop0TEAAAAJ&citation_for_view=iUop0TEAAAAJ:qjMakFHDy7sC)
+    * [Link to Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iUop0TEAAAAJ&citation_for_view=iUop0TEAAAAJ:9yKSN-GCB0IC)
 
 ### 2. OFET Sensors 
 *My work on fabricating and characterizing active sensor devices for signal detection.*
@@ -55,7 +55,7 @@ This academic background provides the physical foundation for my work in **Yield
                      of both explosives and non-explosives, such as Trinitrotoulene (TNT), 1,3,5 trinitro-1,3,5-triazacyclohexane(RDX), etc. The change in:
                      1) the vibrational modes of the molecule by infrared spectroscopy; 2) surface potential of POPC by Kelvin probe force microscopy (KPFM);
                      and 3) electrical characterization by I–V measurements of PC-based OFET on exposing to vapors have been systematically studied.
-    * [Link to Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iUop0TEAAAAJ&citation_for_view=iUop0TEAAAAJ:u5HHmVD_uO8C)
+    * [Link to Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iUop0TEAAAAJ&citation_for_view=iUop0TEAAAAJ:qjMakFHDy7sC)
 
 ### 3. Material Integration & Thin Films
 *My work on heterogenous integration of complex materials (PZT on Diamond).*
@@ -68,12 +68,23 @@ This academic background provides the physical foundation for my work in **Yield
                      substrate without any buffer layer using the pulsed-laser deposition technique. The perovskite phase was realized only under specific growth
                      conditions. X-ray diffraction and Raman studies confirmed the perovskite phase. The ferroelectric behaviour of the deposited PZT thin film
                      was confirmed using piezo response microscope phase image and ferroelectric hysteresis loop..
-    * [Link to Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iUop0TEAAAAJ&citation_for_view=iUop0TEAAAAJ:u-x6o8ySG0sC)
+    * [Link to Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iUop0TEAAAAJ&citation_for_view=iUop0TEAAAAJ:2osOgNQ5qMEC)
 
 * **"Synthesis and characterisation of CuInGaS2 nano-ink for photovoltaic applications"**
-    * *Journal of Experimental Nanoscience (2013)*
+    * *Materials characterization (2013)*
     * **Relevance:** Focused on solution-processable semiconductors (Nano-inks) for scalable manufacturing.
-    * [Link to Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iUop0TEAAAAJ&citation_for_view=iUop0TEAAAAJ:2osOgNQ5qMEC)
+    * [Link to Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iUop0TEAAAAJ&citation_for_view=iUop0TEAAAAJ:u5HHmVD_uO8C)
+ 
+* **"Characterization of tribo-layer formed during sliding wear of SiC ball against nanocrystalline diamond coatings"**
+    * *Journal of Experimental Nanoscience (2014)*
+    * **Relevance:** Tribo-layer formation and frictional characteristics of the SiC ball were studied with the sliding test against nanocrystalline diamond
+                     coating under atmospheric test conditions. Unsteady friction coefficients in the range of 0.04 to 0.1 were observed during the tribo-test.
+                     Friction and wear characteristics were found to be influenced by the formation of cohesive tribo-layer (thickness ~ 1.3 μm) in the wear
+                     track of nanocrystalline diamond coating. Hardness of the tribo-layer was measured using nanoindentation technique and low hardness of ~
+                     1.2 GPa was observed. The presence of silicon and oxygen in the tribo-layer was noticed by the energy dispersive spectroscopy mapping and
+                     the chemical states of the silicon were analyzed using X-ray photoelectron spectroscopy. Large amount of oxygen content in the tribo-layer
+                     indicated tribo-oxidation wear mechanism..
+    * [Link to Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iUop0TEAAAAJ&citation_for_view=iUop0TEAAAAJ:d1gkVwhDpl0C)
 
 ---
 
