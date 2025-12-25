@@ -2,7 +2,7 @@
 ### Semiconductor Materials and Devices | Thin Film Photovoltaics | O-FET Sensor Technology | Halide provskite LEDS | Materials Characterization
 
 **Researcher:** Sunil Kumar Samji (PhD)  
-**Focus:** Next-Gen Solar Cells (CZTS/CIGS), OFET Sensors, and Ferroelectric Integration  
+**Focus:** Next-Gen Solar Cells (CZTS/CIGS), OFET Sensors, and Ferroelectric Materials, Halide Perovskite LEDS
 **Links:** [Google Scholar Profile](https://scholar.google.com/citations?user=iUop0TEAAAAJ&hl=en) | [LinkedIn Profile]
 
 ---
