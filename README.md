@@ -18,12 +18,13 @@ This academic background provides the physical foundation for my work in **Yield
 ## 📚 Selected Publications by Topic
 
 ### 1. Defect Physics & Photovoltaics (CZTS/CIGS)
-*My work on isolating phase changes and grain boundary defects—directly applicable to Yield Excursion Analysis.*
+*Not very time a prisitne single crystalline semicondctor can be for a solar cell application - CAFM studies lets you "sniff" the current at the
+ the interior of the grains and grain boundaries*
 
 * **"How different are CZTS grain boundaries?"**
     * *Scripta Materialia (2021)*
     * **Relevance:** Some materials in poly-crystaline form show better solar cell performance than their single-crystalline form.
-                     This is well established in CdTe and CuInGaSe2. This eork reports CAFM studies on the interior of the grains
+                     This is well established in CdTe and CuInGaSe2. This work reports CAFM studies on the interior of the grains
                      and grain boundariesof CZTS depsoited on sodalime glass substrate and Si substrate to understand explore two
                      competing theories
     * [Link to Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iUop0TEAAAAJ&citation_for_view=iUop0TEAAAAJ:IjCSPb-OGe4C)
