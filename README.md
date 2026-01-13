@@ -1,5 +1,6 @@
 # Research Publications & Academic Portfolio
-### Semiconductor Materials and Devices | Thin Film Photovoltaics | O-FET Sensor Technology | Halide provskite LEDS | Materials Characterization
+### Semiconductor Materials and Devices | Thin Film Photovoltaics | O-FET Sensor | Halide provskite LEDS | Materials Characterization|Thin films|
+
 
 **Researcher:** Sunil Kumar Samji (PhD)  
 **Focus:** Next-Gen Solar Cells (CZTS/CIGS), OFET Sensors, and Ferroelectric Materials, Halide Perovskite LEDS
@@ -9,7 +10,7 @@
 
 ## 🔬 Research Summary
 My research focuses on the **physics of semiconductor defects**, **thin-film deposition**, and **device characterization**. 
-I specialize in correlating material microstructure (grain boundaries, phase changes) with macroscopic device performance (efficiency, sensitivity). 
+I specialize in correlating material microstructure (grain boundaries) with macroscopic device performance (efficiency, sensitivity). 
 
 This academic background provides the physical foundation for my work in **Yield Engineering** and **Computational Fab Analytics**, where I apply algorithms to solve the very defect challenges I studied experimentally.
 
@@ -18,8 +19,8 @@ This academic background provides the physical foundation for my work in **Yield
 ## 📚 Selected Publications by Topic
 
 ### 1. Defect Physics & Photovoltaics (CZTS/CIGS)
-*Not very time a prisitne single crystalline semicondctor can be for a solar cell application - CAFM studies lets you "sniff" the current at the
- the interior of the grains and grain boundaries*
+*Not very time a prisitne single crystalline semiconductor can be good for a solar cell applications - CAFM studies lets you "sniff" the current at the
+ the interior of the grains and grain boundaries and tell you the story*
 
 * **"How different are CZTS grain boundaries?"**
     * *Scripta Materialia (2021)*
