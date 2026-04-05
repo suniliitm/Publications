@@ -73,12 +73,12 @@ This academic background provides the physical foundation for my work in **Yield
     * [Link to Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iUop0TEAAAAJ&citation_for_view=iUop0TEAAAAJ:2osOgNQ5qMEC)
 
 * **"Synthesis and characterisation of CuInGaS2 nano-ink for photovoltaic applications"**
-    * *Materials characterization (2013)*
+    * *Journal of Experimental Nanoscience(2013)*
     * **Abstract:** Focused on solution-processable semiconductors (Nano-inks) for scalable manufacturing.
     * [Link to Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iUop0TEAAAAJ&citation_for_view=iUop0TEAAAAJ:u5HHmVD_uO8C)
  
 * **"Characterization of tribo-layer formed during sliding wear of SiC ball against nanocrystalline diamond coatings"**
-    * *Journal of Experimental Nanoscience (2014)*
+    * *Materials characterization(2014)*
     * **Abstract:** Tribo-layer formation and frictional characteristics of the SiC ball were studied with the sliding test against nanocrystalline diamond
                      coating under atmospheric test conditions. Unsteady friction coefficients in the range of 0.04 to 0.1 were observed during the tribo-test.
                      Friction and wear characteristics were found to be influenced by the formation of cohesive tribo-layer (thickness ~ 1.3 μm) in the wear
