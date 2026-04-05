@@ -24,7 +24,7 @@ This academic background provides the physical foundation for my work in **Yield
 
 * **"How different are CZTS grain boundaries?"**
     * *Scripta Materialia (2021)*
-    * **Relevance:** Some materials in poly-crystaline form show better solar cell performance than their single-crystalline form.
+    * **Abstract:** Some materials in poly-crystaline form show better solar cell performance than their single-crystalline form.
                      This is well established in CdTe and CuInGaSe2. This work reports CAFM studies on the interior of the grains
                      and grain boundariesof CZTS depsoited on sodalime glass substrate and Si substrate to understand explore two
                      competing theories
@@ -32,7 +32,7 @@ This academic background provides the physical foundation for my work in **Yield
 
 * **"Light induced phase change in Cu2-xZn1.3SnS4 thin films"**
     * *Applied Physics Letters (2014)*
-    * **Relevance:** Cu2ZnSnS4 and its alloy based thin film solar cells have shown better photovoltaic performance under Cu-poor and Zn-rich conditions.
+    * **Abstract:** Cu2ZnSnS4 and its alloy based thin film solar cells have shown better photovoltaic performance under Cu-poor and Zn-rich conditions.
                      However, the effect of Cu-stoichiometry on the coexistence of kesterite (KS), stannite and/or partially disordered kesterite (PD-KS)
                      phases and their influence on photovoltaic performance is not clearly understood. Raman studies were carried out on Cu2xZn1.3SnS4
                      (x ¼ 0, 0.3, and 0.5) thin films.
@@ -40,7 +40,7 @@ This academic background provides the physical foundation for my work in **Yield
 
 * **"Do defects get ordered in Cu2ZnSnS4?"**
     * *Scripta Materialia (2016)*
-    * **Relevance:** Formation of ordered defect compounds and anomalous grain boundary physics are unique to Cu chalcogenides CuInX2 (S/Se) and its alloys.
+    * **Abstract:** Formation of ordered defect compounds and anomalous grain boundary physics are unique to Cu chalcogenides CuInX2 (S/Se) and its alloys.
                      X-ray photoelectron spectroscopy (XPS) studies were carried on Cu2-xZn1.3SnS4 (x = 0.0, 0.3, 0.5 and 0.7) to determine the position of
                      valence band edge and explore the formation of ordered vacancy compounds along with absorption studies. Conductive atomic force microscopy
                      (C-AFM) studies were carried out Cu2ZnSnS4 (CZTS) film deposited on Si and sodalime glass substrates to understand grain boundary physics.
@@ -51,7 +51,7 @@ This academic background provides the physical foundation for my work in **Yield
 
 * **"A spectroscopy and microscopy study of Parylene-C OFETs for explosive sensing"**
     * *IEEE Sensors Journal (2017)*
-    * **Relevance:** In this paper, we have explored Parylene-C (PC) as a sensing material for its unique signature and selectivity for explosive sensing. We
+    * **Abstract:** In this paper, we have explored Parylene-C (PC) as a sensing material for its unique signature and selectivity for explosive sensing. We
                      have used a bi-layer deposition process to fabricate bottom-gate-top-contact organic field effect transistor (OFET) structures. Opening of
                      dangling bonds on subjecting PC to plasma oxidation (POPC) renders these molecules to be employed as a receptor material in sensing vapors
                      of both explosives and non-explosives, such as Trinitrotoulene (TNT), 1,3,5 trinitro-1,3,5-triazacyclohexane(RDX), etc. The change in:
@@ -64,7 +64,7 @@ This academic background provides the physical foundation for my work in **Yield
 
 * **"Integration of perovskite PZT thin films on diamond substrate without buffer layer"**
     * *Journal of Physics D: Applied Physics (2012)*
-    * **Relevance:** Integration of lead zirconate titanate (PZT) thin film on diamond substrate offers a great deal of potential for the application of
+    * **Abstract:** Integration of lead zirconate titanate (PZT) thin film on diamond substrate offers a great deal of potential for the application of
                      multifunctional devices under extreme conditions. However, fabrication of perovskite PZT thin films on diamond substrate without a buffer
                      layer has not been realized to date. We report for the first time on the successful deposition of PZT thin film directly on a diamond
                      substrate without any buffer layer using the pulsed-laser deposition technique. The perovskite phase was realized only under specific growth
@@ -74,12 +74,12 @@ This academic background provides the physical foundation for my work in **Yield
 
 * **"Synthesis and characterisation of CuInGaS2 nano-ink for photovoltaic applications"**
     * *Materials characterization (2013)*
-    * **Relevance:** Focused on solution-processable semiconductors (Nano-inks) for scalable manufacturing.
+    * **Abstract:** Focused on solution-processable semiconductors (Nano-inks) for scalable manufacturing.
     * [Link to Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iUop0TEAAAAJ&citation_for_view=iUop0TEAAAAJ:u5HHmVD_uO8C)
  
 * **"Characterization of tribo-layer formed during sliding wear of SiC ball against nanocrystalline diamond coatings"**
     * *Journal of Experimental Nanoscience (2014)*
-    * **Relevance:** Tribo-layer formation and frictional characteristics of the SiC ball were studied with the sliding test against nanocrystalline diamond
+    * **Abstract:** Tribo-layer formation and frictional characteristics of the SiC ball were studied with the sliding test against nanocrystalline diamond
                      coating under atmospheric test conditions. Unsteady friction coefficients in the range of 0.04 to 0.1 were observed during the tribo-test.
                      Friction and wear characteristics were found to be influenced by the formation of cohesive tribo-layer (thickness ~ 1.3 μm) in the wear
                      track of nanocrystalline diamond coating. Hardness of the tribo-layer was measured using nanoindentation technique and low hardness of ~
